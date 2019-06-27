@@ -37,3 +37,7 @@
    - ChinaFFmpeg：http://bbs.chinaffmpeg.com
    
 ---
+
+## Tips
+- 本仓库只是一个目录
+---
